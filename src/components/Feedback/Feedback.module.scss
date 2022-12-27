@@ -1,0 +1,20 @@
+.btnContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    background-color: rgb(4, 132, 132);
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.btnStatic{
+    width: 150px;
+    font-size: large;
+    height: 150px;
+    color: aliceblue;
+    border-radius: 50%;
+    background-color: rgb(238, 60, 75,0.8);
+    cursor: pointer;
+    border: none;
+
+}
